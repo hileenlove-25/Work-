@@ -1,0 +1,215 @@
+title: Restaurant Communication and Workplace Conflict
+subtitle: How to speak up, handle tension, and resolve conflict with coworkers, the kitchen, and management without losing your cool or your job
+tagline: Conversation scripts, de-escalation tools, and conflict planning worksheets
+number: 05
+inside: Why conflict happens in restaurants; Communication styles and how to adapt; Scripts for coworkers, the kitchen, and managers; Conflict resolution planner and reflection worksheets
+---
+
+# Why Restaurants Are Conflict Hot Spots
+
+Restaurants put a lot of people in a small, hot, loud space under constant time pressure. Everyone depends on everyone else, and money depends on the whole team performing. It's no surprise tempers flare.
+
+## Common sources of conflict
+
+| Source | What it looks like |
+| Pressure and speed | Snapping at each other during a rush |
+| FOH vs. BOH tension | Servers blaming the kitchen for slow food; cooks blaming servers for wrong tickets |
+| Uneven workloads | Some people doing more side work, getting more tables, or covering more shifts |
+| Money | Tip pools, tip-outs, and section assignments that feel unfair |
+| Scheduling | Favoritism, last-minute changes, shift swaps gone wrong |
+| Personalities and gossip | Cliques, rumors, and personal drama spilling into work |
+| Poor communication | Unclear expectations, assumptions, and things "lost in translation" |
+
+Conflict isn't always bad. Handled well, it can fix real problems, like an unfair side work system or a broken ticket process. Handled badly, it poisons the whole team.
+
+# Understanding Communication Styles
+
+Most people lean toward one of four styles. Knowing yours, and recognizing others', makes conflict easier to navigate.
+
+| Style | What it looks like | The effect |
+| Passive | Staying quiet, avoiding conflict, going along to keep the peace | Resentment builds; problems don't get fixed |
+| Aggressive | Yelling, blaming, interrupting, intimidating | People get defensive or shut down |
+| Passive-aggressive | Sarcasm, silent treatment, gossip, "forgetting" on purpose | Trust breaks down; tension lingers |
+| Assertive | Stating needs clearly and respectfully while listening to others | Problems get solved; respect grows |
+
+## The goal: assertive communication
+
+Assertive communication means being honest about what you need while respecting the other person. It sounds like:
+
+- "I need..." instead of "You never..."
+- "I noticed..." instead of "You always..."
+- "Can we figure out..." instead of "This is your fault."
+
+## The "I" statement formula
+
+**When** [specific situation], **I feel** [emotion], **because** [impact]. **Could we** [request]?
+
+Example: "When my tickets get fired late, I feel stressed, because my tables wait and my tips drop. Could we go over the timing process together before tomorrow's shift?"
+
+# Communicating Under Pressure
+
+The middle of a rush is the worst time for a deep conversation, but the most common time for conflict.
+
+## During the rush
+
+- **Keep it short and specific.** "I need table 12's salmon re-fired, no butter, allergy."
+- **Stay neutral.** Tone matters more than words when everyone's stressed.
+- **Save the bigger conversation** for later: "Can we talk about this after the rush?"
+- **Don't take the heat personally.** Someone snapping in the weeds often isn't about you.
+
+## Take a pause before responding
+
+When you feel your temper rising, try **STOP**:
+
+- **Stop** what you're about to say.
+- **Take** a breath, or two.
+- **Observe** what's actually happening and how you're feeling.
+- **Proceed** with a calm, intentional response.
+
+> If you need to, step away for 30 seconds: check the walk-in, refill ice, or take a quick breather. It's better than saying something you'll regret.
+
+# FOH and BOH: Working with the Kitchen
+
+The front and back of house often see the same problem from opposite sides. Building a good relationship with the kitchen makes every shift easier.
+
+## What the kitchen wishes servers knew
+
+- A ticket with missing modifiers or allergies creates problems that are hard to fix mid-rush.
+- "Where's my food?" every two minutes slows them down.
+- Ringing in orders all at once creates bottlenecks.
+- A "thank you" at the end of the night goes a long way.
+
+## What servers wish the kitchen knew
+
+- Guests blame the server for slow or wrong food, and it hits our tips.
+- We're often relaying guest requests we don't control.
+- A quick heads-up about 86'd items or delays helps us manage guests.
+
+## Building a better relationship
+
+- Learn the cooks' names and treat them with respect.
+- Ask questions about dishes when it's slow, not during a rush.
+- Own your mistakes: "That was my ticket error, sorry. Can you re-fire it?"
+- Share positive guest feedback with the kitchen.
+
+# Conflict with Coworkers
+
+## Before you address it, ask yourself
+
+- Is this a one-time thing or a pattern?
+- Could there be a misunderstanding?
+- What outcome do I actually want?
+- Is this something I can handle directly, or do I need a manager?
+
+## The 5-step conversation
+
+1. **Pick the right time and place:** private, calm, not during service.
+2. **Open with respect:** "Hey, do you have a few minutes to talk about something?"
+3. **Describe, don't accuse:** use "I" statements and specific examples.
+4. **Listen to their side** without interrupting. Ask questions.
+5. **Agree on a solution** you can both live with, and follow up.
+
+## Scripts for common situations
+
+| Situation | What you can say |
+| A coworker skips side work | "I've noticed the side work list hasn't been done on our shared closes. Can we split it up so it's fair?" |
+| Someone steals your tables | "I think table 9 was mine per the seating chart. Can we check with the host so we're on the same page?" |
+| A coworker is rude to you | "I didn't love how that came across earlier. I'd rather we talk to each other with respect, even when it's busy." |
+| Someone gossips about you | "I heard some things were said about me. I'd rather you come to me directly if there's a problem." |
+| A shift swap falls through | "We agreed on the swap for Saturday, and it didn't happen. Can we confirm swaps in writing going forward?" |
+| Tip-out disagreements | "Can we look at the tip-out sheet together? I want to make sure I understand how it was calculated." |
+
+! If a coworker's behavior involves harassment, threats, discrimination, or violence, don't try to handle it alone. Report it to a manager or HR, and document it (see Guide 03).
+
+# Conflict with Management
+
+Disagreeing with a manager can feel risky. Done well, it can build respect and solve real problems.
+
+## Tips for talking to a manager
+
+- **Ask for a private meeting** at a calm time: "Do you have 10 minutes before the shift?"
+- **Come prepared** with specifics: dates, examples, and a suggested solution.
+- **Focus on the business impact:** "When I'm triple-sat without a busser, service slows and guests complain."
+- **Stay professional,** even if they don't.
+- **Follow up in writing:** "Thanks for meeting today. Just to recap, we agreed that..."
+
+## Scripts for common manager conversations
+
+| Situation | What you can say |
+| Unfair scheduling | "I've noticed my shifts dropped over the past three weeks. Can you help me understand why, and what I can do to get more hours?" |
+| Being corrected in front of guests | "I want to fix mistakes, and I'm open to feedback. Could we have those conversations privately?" |
+| Unclear expectations | "I want to make sure I'm meeting your standards. Could you walk me through what you're looking for on closes?" |
+| Asking for help during a rush | "I'm at capacity and my tables are waiting. Can you help run food or seat the next party elsewhere?" |
+| Receiving a write-up you disagree with | "I'd like to add my written response to this before I sign it." |
+
+## When a conversation isn't enough
+
+If a manager ignores your concerns, retaliates, or treats you unfairly, go up the chain: a general manager, owner, or HR. Document everything, and see Guides 03 and 06 for next steps.
+
+# De-escalation: Calming a Heated Moment
+
+When someone is already angry, whether it's a coworker, a manager, or a guest, your goal is to lower the temperature.
+
+## Do
+
+- Keep your voice low and slow.
+- Keep your body relaxed and non-threatening. Don't cross your arms or step closer.
+- Acknowledge the emotion: "I can tell you're frustrated."
+- Offer a next step: "Let's figure this out after the rush."
+
+## Don't
+
+- Match their volume or tone.
+- Say "Calm down." (It almost never works.)
+- Argue about who's right in the moment.
+- Bring up past issues.
+
+! If anyone becomes physically threatening, remove yourself from the situation and get a manager or security immediately. Your safety comes first.
+
+# Receiving and Giving Feedback
+
+## Receiving feedback
+
+- Listen without interrupting, even if you disagree.
+- Ask clarifying questions: "Can you give me an example?"
+- Thank the person, then take time to think it over.
+- If feedback feels unfair, respond calmly later, with specifics.
+
+## Giving feedback (as a coworker, trainer, or lead)
+
+- Give it privately, and promptly.
+- Be specific about the behavior, not the person.
+- Include what's going well, too.
+- Offer help: "Want me to show you how I do the closing checklist?"
+
+# Worksheet: Conflict Resolution Planner
+
+Use this before a hard conversation.
+
+___ Who is the conflict with?
+___ What exactly happened? (facts only)
+___
+___ How has it affected me or my work?
+___ What might their side of the story be?
+___ What outcome do I want?
+___ My opening line:
+___ My "I" statement (When..., I feel..., because..., Could we...):
+___
+___ Best time and place to talk:
+___ If it doesn't go well, my next step:
+
+# Worksheet: After the Conversation
+
+___ What went well:
+___ What I'd do differently next time:
+___ What we agreed on:
+___ Follow-up date:
+
+## My communication style check
+
+[ ] I tend to avoid conflict (passive)
+[ ] I tend to react loudly or blame (aggressive)
+[ ] I tend to vent to others instead of addressing it (passive-aggressive)
+[ ] I'm working toward saying what I need clearly and respectfully (assertive)
+
+___ One communication habit I want to change:

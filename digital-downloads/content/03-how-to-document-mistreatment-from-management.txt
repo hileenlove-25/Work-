@@ -1,0 +1,247 @@
+title: How to Document Mistreatment in the Workplace from Management
+subtitle: A step-by-step guide for restaurant workers to record what's happening, protect themselves, and know where to turn
+tagline: Incident log templates, a written-complaint template, and a reporting roadmap
+number: 03
+inside: What to document and what counts as mistreatment; How to write an incident note that holds up; Safe ways to store evidence; Printable incident log, timeline, and complaint templates
+disclaimer: This guide is general education, not legal advice. Employment laws vary by country, state, and city, and deadlines apply. For advice about your specific situation, talk to an employment attorney, a legal aid organization, or the government agency that handles your issue.
+---
+
+# Why Documentation Matters
+
+When a manager mistreats you, it can feel like your word against theirs. Managers often have more power, more access to records, and more credibility with owners or HR. Documentation helps balance that.
+
+Clear, consistent records can:
+
+- **Show a pattern.** One comment might be brushed off. Fifteen dated incidents are much harder to ignore.
+- **Protect your memory.** Stress blurs details. Notes written the same day stay accurate.
+- **Support a complaint.** HR, owners, government agencies, and attorneys all rely on evidence.
+- **Protect you from retaliation.** If you're suddenly written up, cut from the schedule, or fired after complaining, a record of what happened before and after matters.
+- **Help you think clearly.** Seeing everything on paper can help you decide what to do next.
+
+> Start documenting now, even if you're not sure you'll ever report anything. You can always decide not to use your notes. You can't go back and create accurate notes later.
+
+# What Counts as Mistreatment?
+
+Not every bad manager is breaking the law, but mistreatment is worth documenting either way. Here's a general overview of common issues in restaurants.
+
+## Issues that may be illegal (U.S.)
+
+| Type | Examples | Who usually handles it |
+| Discrimination | Worse shifts, sections, pay, or discipline because of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age (40+), disability, or genetic information | EEOC or your state fair employment agency |
+| Harassment | Offensive jokes, slurs, unwanted touching, sexual comments, or demands tied to a protected characteristic | EEOC or state agency |
+| Retaliation | Punishment for reporting discrimination or harassment, filing a complaint, or supporting a coworker's complaint | EEOC, DOL, OSHA, or NLRB (depends on the issue) |
+| Wage and tip violations | Unpaid hours, off-the-clock work, managers taking tips, not making up the minimum wage, missing overtime | U.S. Department of Labor Wage and Hour Division or your state labor department |
+| Unsafe conditions | Broken equipment, blocked exits, burns or injuries ignored, no protection from hazards | OSHA or your state safety agency |
+| Punishment for discussing pay or conditions | Being disciplined for talking with coworkers about wages, tips, schedules, or treatment | National Labor Relations Board (NLRB) |
+
+## Issues that may not be illegal, but still matter
+
+- Yelling, belittling, or humiliating you in front of others
+- Unfair scheduling or section assignments with no clear reason
+- Playing favorites, gossip, or excluding you (see Guide 06)
+- Constant criticism with no support to improve
+- Ignoring your concerns or complaints
+
+These may break company policy even when they don't break the law. They may also be part of a larger pattern that *does* connect to a protected characteristic or to retaliation. Document them.
+
+# How to Write an Incident Note
+
+A good incident note is **specific, factual, and written as soon as possible**. Think like a reporter, not a diary.
+
+## The 7 things every note should include
+
+1. **Date and time** the incident happened, plus when you're writing the note.
+2. **Location:** the dining room, the kitchen, the office, a text message, a phone call.
+3. **Who was involved:** full names and job titles.
+4. **What happened:** exactly what was said or done, in order. Use direct quotes when you can.
+5. **Witnesses:** anyone who saw or heard it, even if you're not sure they'd speak up.
+6. **How you responded:** what you said or did.
+7. **The impact:** lost shifts, lost pay, a write-up, physical effects, emotional distress.
+
+## Facts vs. feelings
+
+Your feelings are valid, but notes are strongest when they lead with facts. Add how it affected you at the end.
+
+| Weaker | Stronger |
+| "My manager was really rude to me again." | "At 7:40 p.m. on 3/14, at the expo line, Manager Chris Lee said, 'You're useless, just get out of my sight,' in front of Maria Gomez (server) and Tony Park (line cook)." |
+| "She always gives me the worst sections." | "For the past 4 weeks (dates attached), I was assigned the patio section every Friday and Saturday while coworkers with less seniority got main-floor sections. I asked why on 3/10 and was told 'That's just how it is.'" |
+| "They cut my hours because I complained." | "I emailed HR about harassment on 2/2. My schedule for the weeks of 2/9 and 2/16 dropped from 5 shifts to 2. No reason was given." |
+
+## Example incident note
+
+:: **Date/time of incident:** Friday, March 14, about 7:40 p.m.
+:: **Date/time written:** Friday, March 14, 11:55 p.m.
+:: **Location:** Expo line, main kitchen
+:: **People involved:** Chris Lee (General Manager)
+:: **What happened:** When I picked up food for table 12, Chris said, "You're useless, just get out of my sight." He said it loudly. He then took the plates out of my hands and gave them to another server.
+:: **Witnesses:** Maria Gomez (server), Tony Park (line cook)
+:: **My response:** I said, "Please don't speak to me like that," and went back to my section.
+:: **Impact:** I was embarrassed in front of coworkers and had trouble focusing for the rest of my shift. This is the third incident this month (see notes from 3/2 and 3/8).
+
+! Write only what you know. If you're guessing why something happened, label it: "I believe this was because..." Never exaggerate or add details you're unsure of. Accuracy is what makes your records credible.
+
+# Collecting and Storing Evidence Safely
+
+## What to save
+
+- **Your incident notes**, written the same day
+- **Text messages, emails, and group chat messages** (screenshots showing the date, time, and sender)
+- **Schedules**, especially before and after changes (photos or screenshots)
+- **Pay stubs, tip reports, and your own record of hours and tips**
+- **Write-ups or performance reviews**, and your written response to them
+- **Photos** of unsafe conditions or injuries
+- **Medical records** if you were injured or saw a doctor for stress-related symptoms
+- **The employee handbook** or any policy you were given
+
+## Where to keep it
+
+- Keep records **somewhere your employer can't access or delete:** a personal notebook kept at home, a personal email account, or personal cloud storage.
+- **Don't use work computers, work email, or company-owned phones** for your documentation.
+- One simple method: email each incident note to yourself from your personal account. It creates an automatic timestamp.
+- Back up screenshots in more than one place.
+
+## What NOT to take
+
+- **Don't take confidential company documents,** customer information, or anything you weren't given access to. Doing so may violate policy or the law and can hurt your case.
+- **Don't access someone else's account, phone, or files.**
+
+## A note about recording conversations
+
+Recording laws vary by state. Some states allow you to record a conversation you're part of without telling anyone. Others require **everyone** in the conversation to agree. Recording illegally can create legal problems for you, and your employer may also have its own policies. **Check your state's law before recording anything,** and when in doubt, write detailed notes right after the conversation instead.
+
+# Reporting Inside Your Workplace
+
+In many situations, reporting internally first is an important step, both to give the company a chance to fix the problem and because it may matter later if you file an outside complaint.
+
+## Before you report
+
+- Read the employee handbook for the complaint or grievance process.
+- Identify the right person: HR, the owner, a regional or district manager, or a manager above the one involved.
+- Gather your documentation and decide what outcome you're asking for.
+
+## Put it in writing
+
+A verbal complaint can be forgotten or denied. A written complaint creates a record. After any in-person meeting, send a short follow-up email summarizing what was discussed.
+
+## Written complaint template
+
+:: **Subject:** Formal complaint regarding [manager's name]
+::
+:: Dear [HR / Owner name],
+::
+:: I am writing to formally report ongoing concerns about how I am being treated by [name, title]. I am asking that this complaint be investigated and kept as confidential as possible.
+::
+:: On [date], [brief factual description]. On [date], [brief factual description]. [Add more as needed or attach your incident log.]
+::
+:: These incidents have affected me by [lost shifts, reduced income, stress, etc.]. I believe this treatment may be related to [my race / my pregnancy / my complaint on (date) / etc., only if you believe this is true].
+::
+:: I am requesting [an investigation / a change in who supervises me / a meeting to discuss / a return to my previous schedule]. I would also like confirmation that I will not be retaliated against for making this report.
+::
+:: Please confirm you have received this complaint. I can be reached at [phone / personal email].
+::
+:: Sincerely,
+:: [Your name, position, date]
+
+> Keep a copy of every complaint you send and every reply you receive. If you meet in person, write down who attended and what was said as soon as the meeting ends.
+
+## After you report: watch for retaliation
+
+Retaliation can look like: suddenly worse sections, fewer shifts, sudden write-ups, being excluded, or being fired. Keep documenting after you report, because changes in treatment after a complaint are important evidence.
+
+# Reporting Outside Your Workplace (U.S.)
+
+If reporting internally doesn't work, isn't safe, or doesn't apply, government agencies may be able to help. Many have **strict deadlines,** so don't wait too long.
+
+| Agency | What they handle | Typical deadline to file* | Contact |
+| EEOC (Equal Employment Opportunity Commission) | Discrimination, harassment, and related retaliation | 180 days, extended to 300 days in many states | eeoc.gov · 1-800-669-4000 |
+| DOL Wage and Hour Division | Unpaid wages, tips, overtime, minimum wage | Generally 2 years (3 if willful) for many wage claims | dol.gov/agencies/whd · 1-866-487-9243 |
+| OSHA | Unsafe conditions; retaliation for safety complaints | Retaliation complaints: 30 days | osha.gov · 1-800-321-6742 |
+| NLRB (National Labor Relations Board) | Punishment for discussing pay or conditions with coworkers or acting together | 6 months | nlrb.gov · 1-844-762-6572 |
+| Your state labor or civil rights agency | State wage, break, and anti-discrimination laws (often broader than federal law) | Varies by state | Search "[your state] labor department" |
+
+*Deadlines summarized for general education and can change. Confirm the current deadline with the agency or an attorney as soon as possible.
+
+## Talking to an attorney
+
+- Many employment attorneys offer **free consultations** and some work on contingency (paid only if you win).
+- Legal aid organizations and law school clinics may help for free if you qualify.
+- Bring your incident log, timeline, pay records, and any complaints you've filed.
+
+# Taking Care of Yourself Through It
+
+Documenting mistreatment means reliving hard experiences. That takes a toll.
+
+- **Limit the time you spend on it.** Write the note, then close the notebook.
+- **Talk to someone you trust:** a friend, family member, or counselor.
+- **Keep your job performance steady** as much as you can, so there's no legitimate reason to discipline you.
+- **Stay professional in writing.** Assume anything you text or email could be read by others later.
+- **Plan for your future.** It's okay to look for a new job while you document. Your well-being comes first.
+
+# Worksheet: Incident Log
+
+Make copies of this page. Use one row per incident and attach detailed notes when needed.
+
+| Date / Time | Location | Who was involved | What happened (facts and quotes) | Witnesses | Impact |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+# Worksheet: Detailed Incident Report
+
+___ Date and time of incident:
+___ Date and time this note was written:
+___ Location:
+___ People involved (names and titles):
+___ What happened (in order, using exact words when possible):
+___
+___
+___
+___
+___ Witnesses:
+___ How I responded:
+___ Impact on me (pay, schedule, health, emotions):
+___
+___ Evidence saved (screenshots, schedules, photos):
+___ Related past incidents (dates):
+
+# Worksheet: Timeline and Contacts
+
+## Timeline of key events
+
+Record major events in order: incidents, complaints you made, responses, schedule or pay changes, discipline.
+
+| Date | Event | Evidence I have |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Reports and complaints I've made
+
+| Date | Reported to (name / agency) | How (email, meeting, form) | Response received |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Documentation checklist
+
+[ ] I keep my notes outside of work systems
+[ ] I write notes the same day as each incident
+[ ] I've saved relevant texts, emails, and schedules
+[ ] I have copies of my pay stubs and my own hours and tips log
+[ ] I have a copy of the employee handbook
+[ ] I've checked my state's recording law before recording anything
+[ ] I've reported in writing and kept a copy
+[ ] I know the deadlines for any outside agency I may contact
