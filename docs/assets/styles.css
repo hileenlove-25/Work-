@@ -97,6 +97,16 @@ img {
   border-color: var(--cream);
 }
 
+.header-shop {
+  color: var(--burgundy);
+  border-color: var(--burgundy);
+}
+
+.header-shop:hover {
+  background: var(--burgundy);
+  color: var(--cream);
+}
+
 .btn-card {
   width: 100%;
   background: var(--burgundy);
@@ -271,6 +281,40 @@ img {
   margin-bottom: 0;
 }
 
+.shop-section {
+  background: linear-gradient(180deg, var(--bg) 0%, #f3e6d0 100%);
+}
+
+.shop-controls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: -20px auto 38px;
+}
+
+.filter-btn {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.58);
+  color: var(--muted);
+  cursor: pointer;
+  font: 600 0.86rem "Inter", sans-serif;
+  padding: 10px 16px;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+  background: var(--burgundy);
+  border-color: var(--burgundy);
+  color: var(--cream);
+}
+
+.card[hidden] {
+  display: none;
+}
+
 /* Guides grid */
 .guides-grid {
   display: grid;
@@ -300,6 +344,29 @@ img {
   object-fit: cover;
 }
 
+.merch-art {
+  align-items: center;
+  background: var(--gold);
+  color: var(--burgundy-dark);
+  display: flex;
+  flex-direction: column;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: clamp(1.7rem, 4vw, 2.6rem);
+  font-weight: 800;
+  justify-content: center;
+  letter-spacing: 0.04em;
+  line-height: 0.98;
+  min-height: 100%;
+  padding: 28px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card:nth-child(odd) .merch-art {
+  background: var(--burgundy);
+  color: var(--gold-light);
+}
+
 .card-body {
   padding: 22px 22px 24px;
   display: flex;
@@ -314,6 +381,12 @@ img {
   color: var(--gold);
   font-weight: 700;
   margin-bottom: 8px;
+}
+
+.card[data-category="goods"] .card-meta {
+  color: var(--burgundy-tint);
+  text-transform: none;
+  letter-spacing: 0;
 }
 
 .card h3 {

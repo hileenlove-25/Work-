@@ -1,6 +1,6 @@
-# Hileen Love website
+# Hileenlove website
 
-Static site for the Hileen Love / DigitalByHileen storefront (the Front-of-House Series guides). No platform, no monthly fee — plain HTML/CSS/JS in this folder, hosted for free on GitHub Pages.
+Standalone storefront for Hileenlove's digital downloads and print-on-demand goods. No marketplace storefront is required: this is plain HTML/CSS/JS in this folder, hosted for free on GitHub Pages.
 
 ## 1. Turn on GitHub Pages
 
@@ -27,20 +27,18 @@ A `CNAME` file with `hileenlove.com` is already in this folder, so once Pages is
 
 If you don't own hileenlove.com yet, buy it from any registrar (Namecheap, Google Domains successor Squarespace Domains, Cloudflare, GoDaddy, etc.) — then do the DNS steps above.
 
-## 3. Turn on real checkout
+## 3. Connect checkout and fulfillment
 
-Right now every "Buy Now" button is a placeholder (clicking it shows a toast telling you it isn't connected). To start actually selling:
+The catalog is ready for direct product links, but each `checkoutUrl` starts as `"#"` until you connect your own checkout and fulfillment accounts. To start actually selling:
 
-1. Pick a checkout tool that hosts/delivers the PDF files for you, for example:
-   - **Gumroad** or **Payhip** — upload each PDF, get a product page URL, no extra automation needed for file delivery.
-   - **Stripe Payment Links** — simplest checkout UI, but Stripe alone won't email the PDF to the buyer; you'd need to connect an automation (e.g. Zapier) or deliver manually.
-2. Create one product per guide (7 total: the 6 guides + the bundle) using the PDFs and cover images in `../digital-downloads/`. The listing copy, tags, and suggested prices are already written out in `../digital-downloads/SHOPIFY-LISTINGS.md`.
-3. Open `assets/products.js` in this folder and replace each product's `checkoutUrl: "#"` with the real payment link URL.
-4. Commit and push — the live site updates automatically next time Pages rebuilds (usually under a minute).
+1. For digital downloads, create a payment link that delivers the matching PDF after payment.
+2. For print-on-demand goods, create the tee and tote with your chosen printer and connect their product or checkout links.
+3. Open `assets/products.js` and replace each product's `checkoutUrl: "#"` with the real link. The page itself remains the customer-facing Hileenlove shop.
+4. Commit and push — the live site updates automatically next time Pages rebuilds.
 
 ## Editing content
 
-- **Products, prices, descriptions:** `assets/products.js`
+- **Products, prices, descriptions, checkout links:** `assets/products.js`
 - **Page copy (hero, about, FAQ):** `index.html`
 - **Colors, fonts, layout:** `assets/styles.css` (brand colors are defined once at the top as CSS variables)
 - **Cover images:** `assets/images/` (currently copied from `../digital-downloads/images/`)
