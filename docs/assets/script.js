@@ -49,23 +49,11 @@ function featuredCard(p) {
 }
 
 function renderProducts() {
-  const grid = document.getElementById("guides-grid");
-  if (!grid || typeof PRODUCTS === "undefined") return;
-  grid.innerHTML = PRODUCTS.map((p) => (p.featured ? featuredCard(p) : guideCard(p))).join("");
-}
-
-function setupFilters() {
-  const buttons = document.querySelectorAll(".filter-btn");
-  const grid = document.getElementById("guides-grid");
-  if (!buttons.length || !grid) return;
-  buttons.forEach((button) => button.addEventListener("click", () => {
-    buttons.forEach((item) => item.classList.remove("active"));
-    button.classList.add("active");
-    const filter = button.dataset.filter;
-    grid.querySelectorAll("[data-category]").forEach((card) => {
-      card.hidden = filter !== "all" && card.dataset.category !== filter;
-    });
-  }));
+  if (typeof PRODUCTS === "undefined") return;
+  const digital = document.getElementById("guides-grid");
+  const goods = document.getElementById("goods-grid");
+  if (digital) digital.innerHTML = PRODUCTS.filter((p) => p.category === "digital").map((p) => (p.featured ? featuredCard(p) : guideCard(p))).join("");
+  if (goods) goods.innerHTML = PRODUCTS.filter((p) => p.category === "goods").map(guideCard).join("");
 }
 
 function showToast(message) {
@@ -112,7 +100,6 @@ function setYear() {
 
 document.addEventListener("DOMContentLoaded", () => {
   renderProducts();
-  setupFilters();
   interceptPlaceholderCheckouts();
   setupNav();
   setYear();
