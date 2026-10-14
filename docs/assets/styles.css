@@ -70,6 +70,8 @@ h2 { font-size: clamp(2.2rem, 5vw, 3.6rem); }
 .split-art { min-height: 520px; display: grid; place-items: center; position: relative; }
 .podcast-art { background: linear-gradient(135deg, #1c1c1c, #3a2f27); color: #fff; text-align: center; align-content: center; gap: 6px; }
 .podcast-art strong { font-family: var(--display); font-weight: 400; font-size: clamp(2.6rem, 6vw, 4.4rem); letter-spacing: .12em; line-height: 1.1; color: var(--champagne-light); }
+.tagline { font-family: var(--serif); font-style: italic; font-size: 1.15rem; margin-top: 14px; color: #fff; opacity: .9; }
+.lead-line { font-family: var(--serif); font-size: 1.35rem; color: var(--muted); }
 .script { font-family: var(--script); font-size: 3.4rem; color: var(--champagne); line-height: 1; }
 .audio-only { font-size: .72rem; letter-spacing: .3em; text-transform: uppercase; opacity: .7; }
 .split.reverse { grid-template-columns: 1fr 1fr; }
